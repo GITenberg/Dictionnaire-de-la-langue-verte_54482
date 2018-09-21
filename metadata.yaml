@@ -1,10 +1,13 @@
 _repo: Dictionnaire-de-la-langue-verte_54482
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Fustier, Gustave
     gutenberg_agent_id: '47896'
     url: http://www.gutenberg.org/2009/agents/47896
+covers:
+- cover_type: archival
+  image_path: 54482-h/images/cover.jpg
 creator:
   author:
     agent_name: Delvau, Alfred
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '43123'
     url: http://www.gutenberg.org/2009/agents/43123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54482#Dictionnaire-de-la-langue-verte
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2017-04-03'
 gutenberg_type: Text
