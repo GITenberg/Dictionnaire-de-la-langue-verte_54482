@@ -1,0 +1,28 @@
+_repo: Dictionnaire-de-la-langue-verte_54482
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Fustier, Gustave
+    gutenberg_agent_id: '47896'
+    url: http://www.gutenberg.org/2009/agents/47896
+creator:
+  author:
+    agent_name: Delvau, Alfred
+    birthdate: 1825
+    deathdate: 1867
+    gutenberg_agent_id: '43123'
+    url: http://www.gutenberg.org/2009/agents/43123
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2017-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54482'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dictionnaire de la langue verte
+url: http://www.gutenberg.org/ebooks/54482
